@@ -1,0 +1,14 @@
+{
+  "name": "annotateUI",
+  "id": "1443423040094683223",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "documentAccess": "dynamic-page",
+  "editorType": ["figma"],
+  "containsWidget": true,
+  "widgetApi": "1.0.0",
+  "networkAccess": {
+    "allowedDomains": ["https://*.figma.com"]
+  },
+  "permissions": ["currentuser"]
+}
